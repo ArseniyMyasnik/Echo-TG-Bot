@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from aiogram import Bot, Dispatcher, executor, types
 
 API_TOKEN = '6935015637:AAFWVj_siPpTJ98EkIYoaeG8VsZv5nf-re0'
